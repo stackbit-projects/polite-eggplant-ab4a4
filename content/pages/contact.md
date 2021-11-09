@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: 'Selectati '
         options:
-          - Error on the site
+          - Succes
           - Sponsorship
           - Other
       - input_type: textarea
