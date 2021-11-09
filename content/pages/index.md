@@ -11,11 +11,15 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      I am a student at the Faculty of Economics and Business Administration,
+      looking for an
+
+      opportunity to develop my skills and grow professionally within a
+      consolidated company. I am seeking a full-time position where I can apply
+      my knowledge and skills for continuous improvement. I am extremely
+      motivated, perseverant, diligent, and a true team player.
+
     actions:
       - label: Contact Me
         url: /contact
