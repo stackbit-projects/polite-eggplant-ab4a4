@@ -25,7 +25,7 @@ sections:
         options:
           - Succes
           - Sponsorship
-          - Other
+          - all succes
       - input_type: textarea
         name: message
         label: Message
