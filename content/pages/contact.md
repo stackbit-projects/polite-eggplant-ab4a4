@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: subject
         label: Subject
-        default_value: Selectati
+        default_value: 'Selectati '
         options:
           - Error on the site
           - Sponsorship
